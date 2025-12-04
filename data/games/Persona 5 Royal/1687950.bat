@@ -1,0 +1,10 @@
+DepotDownloadermod.exe -app 1687950 -depot 1687951 -manifest 179949564195054526 -manifestfile 1687951_179949564195054526.manifest -depotkeys 1687950.key -max-downloads 256 -verify-all
+DepotDownloadermod.exe -app 1687950 -depot 1687952 -manifest 3167861682612256520 -manifestfile 1687952_3167861682612256520.manifest -depotkeys 1687950.key -max-downloads 256 -verify-all
+DepotDownloadermod.exe -app 1687950 -depot 1687953 -manifest 676724932591096292 -manifestfile 1687953_676724932591096292.manifest -depotkeys 1687950.key -max-downloads 256 -verify-all
+DepotDownloadermod.exe -app 1687950 -depot 1687954 -manifest 4383202142358403441 -manifestfile 1687954_4383202142358403441.manifest -depotkeys 1687950.key -max-downloads 256 -verify-all
+DepotDownloadermod.exe -app 1687950 -depot 1687955 -manifest 1440355225172460061 -manifestfile 1687955_1440355225172460061.manifest -depotkeys 1687950.key -max-downloads 256 -verify-all
+DepotDownloadermod.exe -app 1687950 -depot 1687956 -manifest 7521686342464165318 -manifestfile 1687956_7521686342464165318.manifest -depotkeys 1687950.key -max-downloads 256 -verify-all
+DepotDownloadermod.exe -app 1687950 -depot 1687957 -manifest 748315061441883037 -manifestfile 1687957_748315061441883037.manifest -depotkeys 1687950.key -max-downloads 256 -verify-all
+DepotDownloadermod.exe -app 1687950 -depot 1687958 -manifest 4651383591850403589 -manifestfile 1687958_4651383591850403589.manifest -depotkeys 1687950.key -max-downloads 256 -verify-all
+DepotDownloadermod.exe -app 1687950 -depot 1687959 -manifest 223453434450812259 -manifestfile 1687959_223453434450812259.manifest -depotkeys 1687950.key -max-downloads 256 -verify-all
+DepotDownloadermod.exe -app 1687950 -depot 1753980 -manifest 3263965511551036653 -manifestfile 1753980_3263965511551036653.manifest -depotkeys 1687950.key -max-downloads 256 -verify-all
