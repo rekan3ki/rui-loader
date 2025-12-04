@@ -1,0 +1,12 @@
+# Secrets and sensitive files 
+.env 
+*.key 
+*-token.txt 
+my-github-token.txt 
+.download_state.db 
+__pycache__/ 
+*.pyc 
+build/ 
+dist/ 
+*.spec 
+*.exe 
