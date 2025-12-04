@@ -37,6 +37,5 @@ echo All files downloaded to: "Mountain" folder
 echo Total depots processed: %total_depots%
 echo ------------------------------------------------------------------------------
 echo Download completed successfully! You can now close this window.
-echo Created by Solus Bot in Morrenus Games - https://discord.gg/morrenusgames
 echo ------------------------------------------------------------------------------
 pause
