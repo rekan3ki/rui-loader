@@ -1,4 +1,4 @@
-@echo off
+	@echo off
 chcp 65001 > nul
 color 0F
 title Mountain - DepotDownloader RESUME

@@ -1,0 +1,33 @@
+======================================================================
+DIRECTORY STRUCTURE
+======================================================================
+Generated: 2025-12-04 16:39:51
+Root Directory: c:\Users\rocha\UltimateDownloader\data\games\The Mountain
+Total Files: 16
+Total Folders: 2
+======================================================================
+
+📁 The Mountain/
+├── 📁 DepotDownloaderMod/
+│   ├── 📄 DepotDownloaderMod.deps.json (7.84 KB)
+│   ├── 📄 DepotDownloaderMod.dll (172.50 KB)
+│   ├── 📄 DepotDownloaderMod.exe (190.00 KB)
+│   ├── 📄 DepotDownloaderMod.runtimeconfig.json (482.00 B)
+│   ├── 📄 LICENSE (18.00 KB)
+│   ├── 📄 QRCoder.dll (141.00 KB)
+│   ├── 📄 SteamKit2.dll (6.16 MB)
+│   ├── 📄 System.IO.Hashing.dll (54.76 KB)
+│   ├── 📄 ZstdSharp.dll (386.50 KB)
+│   ├── 📄 protobuf-net.Core.dll (292.50 KB)
+│   └── 📄 protobuf-net.dll (278.00 KB)
+├── 📁 Mountain Manifests and Keys/
+│   ├── 📄 313340.key (71.00 B)
+│   └── 📄 313341_6605867348333059476.manifest (14.80 KB)
+├── 📄 directory_structure.txt (0.00 B)
+├── 📄 directory_tree.py (5.07 KB)
+├── 📄 download.bat (2.08 KB)
+└── 📄 resume.bat (2.19 KB)
+
+======================================================================
+Summary: 16 files, 2 folders
+======================================================================
